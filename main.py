@@ -401,4 +401,4 @@ Amiga4 = (Amiga2 + Amiga3)
 
 Total2 = Amiga1 + Amiga2 + Amiga3 + Amiga4
 
-print(Total2)
+print("R$" , Total2)
